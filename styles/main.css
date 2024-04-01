@@ -64,4 +64,16 @@ footer p{
         flex-direction: column;
         text-align: center;
     }
+    #colonOne{
+        display: none;
+    }
+    #colonTwo{
+        display: none;
+    }
+    #seconds{
+        border-top: 1px solid grey;
+    }
+    #minute{
+        border-top: 1px solid grey;
+    }
 }
